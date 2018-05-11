@@ -7,6 +7,7 @@ This repo implements the attention mechanism in keras.
 
 ### Attention in Dense Network
 Use attention mechanism to get which feature shuold be paid more attention. A Dense layer is used to get the probs.Here is the probs plot.</br>
-
+![image](https://github.com/mjDelta/attention-mechanism-keras/blob/master/dense.png)
 ### Attention in RNN Network
 Use attention mechanism to get which timesteps shuold be paid more attention( of cause, you can switch to which features shuold be paid more attention).Here is the probs plot.</br>
+![image](https://github.com/mjDelta/attention-mechanism-keras/blob/master/lstm.png)
