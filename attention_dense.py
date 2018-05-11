@@ -10,7 +10,7 @@ from keras.models import Model
 import keras.backend as K
 import numpy as np
 from matplotlib import pyplot as plt
-input_dim=100
+input_dim=32
 drop_rate=0.5
 def get_model():
   input_=Input(shape=(input_dim,))
